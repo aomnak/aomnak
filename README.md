@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi I'm Pornteera Nakaiy, Welcome to my GitHub profile 👋
 
-<!--
-**aomnak/aomnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍂 My name is Pornteera Nakaiy, or Aom.  
+🎓 I’m currently studying Computer Science at **KMITL**.  
+💡 Interested in **Front-End Development**, **Machine Learning**, and **Game Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Quotes  
+> "First, solve the problem. Then, write the code."  
+> ~ John Johnson  
+
+---
+
+## 📌 Pinned Projects  
+### [🎵 Melodia](https://github.com/aomnak/Melodia)  
+**Description:** An AI-powered music generation app using Flask, React.js, and machine learning.  
+**Technologies:** Python, Flask, TensorFlow, React.js  
+
+---
+
+## 🌐 Contact Me  
+📧 **Email:** [aomnak_aj@hotmail.co.th](mailto:aomnak_aj@hotmail.co.th)  
+
+---
