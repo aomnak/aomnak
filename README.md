@@ -2,7 +2,7 @@
 
 🍂 My name is Pornteera Nakaiy, or Aom.  
 🎓 I’m currently studying Computer Science at **KMITL**.  
-💡 Interested in **Front-End Development**, **Machine Learning**, and **Game Development**.
+💡 Interested in **Front-End Development**, **Back-End Development**, **Machine Learning**, and **Game Development**.
 
 ---
 
