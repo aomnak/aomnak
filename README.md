@@ -19,21 +19,9 @@
 
 ---
 
-## 🔥 My Stats :
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=aomnak&show_icons=true&theme=dark&count_private=true" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌍 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomnak&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
-
+## 🔥 &nbsp; My Stats :
+[![ZieSorX's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomnak&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/aomnak?tab=repositories) &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aomnak&layout=compact&theme=vision-friendly-dark)](https://github.com/aomnak?tab=repositories)
 
 ---
 
