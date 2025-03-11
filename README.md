@@ -19,14 +19,21 @@
 
 ---
 
-## 🔍 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aomnak&show_icons=true&theme=dark&count_private=true)  
+## 🔥 My Stats :
 
-## 🌐 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aomnak&layout=compact&theme=dark)  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=aomnak&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌍 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomnak&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
-## 🚀 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=aomnak&theme=dark)  
 
 ---
 
